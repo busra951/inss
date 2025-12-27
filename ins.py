@@ -25,7 +25,7 @@ from instagrapi.exceptions import (
 )
 
 # ========= AYARLAR =========
-TOKEN = "8507413528:AAE3J4F9fU7FdJ-VM8I7AKKcQf8wWlmpn2k"
+TOKEN = "8207181555:AAGrInOynVXXL0lMzS129lmGD5tGHu31vhM"
 BOT_NAME = "İçerik Avcısı 🤖"
 FETCH_WINDOW_MIN = 60
 CHECK_INTERVAL_MIN = 5  # Her 5 dakikada bir kontrol et
@@ -732,4 +732,5 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("\nBot durduruldu.")
         pass
+
 
